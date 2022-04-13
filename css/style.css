@@ -22,3 +22,6 @@
 
 /*Seguros*/
 @import "./seguros/seguros.css"; 
+
+/*títulos internos*/
+@import "./termos/termos.css";
