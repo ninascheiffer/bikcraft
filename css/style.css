@@ -16,6 +16,8 @@
 
 /*Utilitário, botão*/
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
+
 
 /*Bicicletas*/
 @import "./bicicletas/bicicletas-lista.css";
@@ -30,6 +32,12 @@
 @import "./seguros/vantagens.css"; 
 @import "./seguros/perguntas.css"; 
 
+/*Contato*/
+@import "./contato/contato.css";
+@import "./contato/lojas.css";
+
+/*orcamento*/
+@import "./orcamento/orcamento.css";
 
 /*títulos internos*/
 @import "./termos/termos.css";
