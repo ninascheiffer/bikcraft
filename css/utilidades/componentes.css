@@ -79,6 +79,10 @@
   color: var(--cor-0);
 }
 
+.titulo{
+  background: url('../../img/dec/top-right.svg') no-repeat top right 20px;
+}
+
 /*Títulos internos*/
 .titulo-bg{
   padding-top: 60px;
